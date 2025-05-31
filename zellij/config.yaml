@@ -1,0 +1,6 @@
+ui:
+  pane_frames:
+    rounded_corners: true
+  theme: default
+  # Add or modify this line
+  default_font_size: 6
